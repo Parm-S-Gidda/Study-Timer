@@ -31,7 +31,7 @@
 .break-div{
 
     display: flex;
-    margin-top: 40px;
+
     justify-content: center;
     gap: 15px;
     
@@ -95,4 +95,18 @@ body{
 #start-button:hover {
     background-color: #252422;
     color: #403d39
+}
+
+
+#what-time-div{
+
+    display:inline-block
+}
+
+#what-time{
+    background-color: #354f52;
+    
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
 }
